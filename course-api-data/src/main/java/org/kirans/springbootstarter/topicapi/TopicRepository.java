@@ -8,5 +8,4 @@ public interface TopicRepository extends CrudRepository<Topic, String> {
 	//getTopic(String id)
 	//updateTopic(Topic topic)
 	//deleteTopic(String id)
-	
 }
